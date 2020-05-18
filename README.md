@@ -34,4 +34,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 "vue-router": "^3.1.3"
 ```
 ## 基本效果
-![](./doc/img/TIM图片20200518152203.png)
+![](./doc/img/20200518152203.png)
