@@ -3,7 +3,7 @@
     <a-layout id="components-layout-demo-top-side">
       <a-layout-header>
         <div class="logo">
-          <span class="logoApp">行情工具</span>
+          <span class="logoApp">demo</span>
         </div>
         <a-menu
           theme="dark"

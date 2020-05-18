@@ -33,3 +33,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 "vue-echarts": "^4.1.0",
 "vue-router": "^3.1.3"
 ```
+## 基本效果
+![](./doc/img/TIM图片20200518152203.png)
